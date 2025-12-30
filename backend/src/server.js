@@ -16,7 +16,10 @@ app.use("/api/leaderboard", leaderboardRoutes);
 
 const server = http.createServer(app);
 const io = new Server(server, {
-  cors: { origin: "*" }
+  cors: { 
+    origin: "*",
+    methods:["GET","POST"]
+  }
 });
 
 socketHandler(io);
