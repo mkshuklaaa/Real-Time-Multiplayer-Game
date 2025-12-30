@@ -24,4 +24,4 @@ A real-time **Connect 4 (4 in a Row)** multiplayer game built using **MERN stack
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/mkshuklaaa/Real-Time-Multiplayer-Game.git
-cd 4-in-a-row-game
+cd Real-Time-Multiplayer-Game
