@@ -26,7 +26,7 @@ A real-time **Connect 4 (4 in a Row)** multiplayer game built using **MERN stack
 git clone https://github.com/mkshuklaaa/Real-Time-Multiplayer-Game.git
 cd Real-Time-Multiplayer-Game
 
-### 2️⃣ Backend Setup
+2️⃣ Backend Setup
 
 cd backend
 npm install
@@ -40,13 +40,13 @@ Run backend:
 
 npm run dev
 
-### 3️⃣ Frontend Setup
+3️⃣ Frontend Setup
 
 cd frontend
 npm install
 npm start
 
-### 4️⃣ Open in Browser
+4️⃣ Open in Browser
 
 http://localhost:3000
 
@@ -61,7 +61,14 @@ First to connect 4 discs wins!
 
 📸 Screenshots
 
-(Add screenshots here)
+<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/d4b5794a-c54f-4533-b0b4-66179674abfa" />
+<img width="1903" height="930" alt="image" src="https://github.com/user-attachments/assets/4c79d365-e6cf-402c-acd7-ee2e2415907c" />
+<img width="1902" height="927" alt="image" src="https://github.com/user-attachments/assets/0d428340-6b3e-479c-9ef2-847497be6419" />
+<img width="1899" height="926" alt="image" src="https://github.com/user-attachments/assets/6a42237d-b268-453f-8a93-4ad5612d283e" />
+
+
+
+
 
 👨‍💻 Author
 
