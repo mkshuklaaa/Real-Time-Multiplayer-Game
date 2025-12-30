@@ -17,7 +17,7 @@ app.use("/api/leaderboard", leaderboardRoutes);
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: { 
-    origin: "*",
+    origin: "https://real-time-multiplayer-game.vercel.app",
     methods:["GET","POST"]
   }
 });
