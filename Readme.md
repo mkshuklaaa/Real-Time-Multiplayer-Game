@@ -66,7 +66,9 @@ Manish Kumar Shukla
 ```
 ## 📸 Screenshots
 
-<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/d4b5794a-c54f-4533-b0b4-66179674abfa" />
-<img width="1903" height="930" alt="image" src="https://github.com/user-attachments/assets/4c79d365-e6cf-402c-acd7-ee2e2415907c" />
-<img width="1902" height="927" alt="image" src="https://github.com/user-attachments/assets/0d428340-6b3e-479c-9ef2-847497be6419" />
-<img width="1899" height="926" alt="image" src="https://github.com/user-attachments/assets/6a42237d-b268-453f-8a93-4ad5612d283e" />
+<img width="1898" height="930" alt="image" src="https://github.com/user-attachments/assets/bca229b5-69d3-4634-883e-1696e1ebe2bc" />
+<img width="1896" height="929" alt="image" src="https://github.com/user-attachments/assets/975fd0a4-9212-40c8-9577-e1e29cffd554" />
+<img width="1903" height="930" alt="image" src="https://github.com/user-attachments/assets/d6d2ee83-afe9-4c14-ab02-26ff22568a0a" />
+<img width="1894" height="925" alt="image" src="https://github.com/user-attachments/assets/d77b6121-1bec-422a-bb83-86936688ead7" />
+<img width="1891" height="927" alt="image" src="https://github.com/user-attachments/assets/881fcb83-2bb1-48f2-adb7-2d9e7dc6ad99" />
+<img width="1897" height="933" alt="image" src="https://github.com/user-attachments/assets/6e5174a6-09cf-4912-872d-c2f87b142f56" />
